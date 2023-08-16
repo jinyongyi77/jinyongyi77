@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jinyongyi77
+- 👀 I’m interested in Aspiring game developer skilled in C# and Unity.
+- 🌱 I’m currently learning Striving to create engaging, immersive gaming experiences.
